@@ -14,7 +14,7 @@
   <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/CSS-yellow?logo=CSS3&logoColor=white&labelColor=red&color=red">
   <br/>
   <a href="https://javascript.com/" target="blank"><img align="center" src="https://img.shields.io/badge/JAVASCRIPT-yellow?logo=JAVASCRIPT&logoColor=black&labelColor=RED&color=RED">
-  <a href="https://php.net/" target="blank"><img align="center" src="https://img.shields.io/badge/PHP-yellow?logo=PHP&logoColor=white&labelColor=blue&color=blue">
+  <a href="https://www.w3schools.com/c/" target="blank"><img align="center" src="https://img.shields.io/badge/C-yellow?logo=C&logoColor=white&labelColor=blue&color=blue">
   <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/HTML-yellow?logo=HTML5&logoColor=white&labelColor=blue&color=blue"> 
   </a>
 
