@@ -3,6 +3,7 @@
 
 🕶️ | Cybersecurity<br>
 💻 | Python & C<br>
+⌨ | Kali Linux<br>
 🖱️  | EthicalHacking<br><br>
 - 📫 How to reach me **arihantvardhan0865@gmail.com**<br><br>
 
@@ -16,5 +17,6 @@
   <a href="https://javascript.com/" target="blank"><img align="center" src="https://img.shields.io/badge/JAVASCRIPT-yellow?logo=JAVASCRIPT&logoColor=black&labelColor=RED&color=RED">
   <a href="https://www.w3schools.com/c/" target="blank"><img align="center" src="https://img.shields.io/badge/C-yellow?logo=C&logoColor=white&labelColor=blue&color=blue">
   <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/HTML-yellow?logo=HTML5&logoColor=white&labelColor=blue&color=blue"> 
+  <a href=https://www.kali.org/" target="blank"><img align="center" src="https://img.shields.io/badge/KaliLinux-yellow?logo=KaliLinux&logoColor=Green&labelColor=Black&color=Red">
   </a>
 
