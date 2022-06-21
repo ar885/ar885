@@ -3,6 +3,7 @@
 
 🕶️ | Cybersecurity<br>
 💻 | Python & C<br>
+☮️ | Play CTF'S<br>
 ⌨ | Kali Linux<br>
 🖱️  |EthicalHacking<br><br>
 📫 |Reach me on: **arihantvardhan0865@gmail.com**<br><br>
